@@ -4,4 +4,4 @@
 
 </div>
 
-[banner-url]: https://github.com/lucascriado/lucascriado/blob/6bee577461eeaf82cfc2298f5fff01cdc506ac9b/Component%201.png
+[banner-url]: https://github.com/lucascriado/lucascriado/blob/b19a3d05809c22dcadebef2fe6c91ec2b1a60259/Component.png
