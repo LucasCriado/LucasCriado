@@ -61,5 +61,3 @@
     alt="lucascriado" /></p>
 
 <br>
-      
-[Lucas Criado](https://github.com/lucascriado)
