@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sequelize,bootstrap,flask,wordpress,tailwind,express,git,github,vscode,figma,nodejs,mysql,html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=knex,sequelize,bootstrap,flask,wordpress,tailwind,express,git,github,vscode,figma,nodejs,mysql,html,css&perline=7" />
   </a>
 </p>
 
